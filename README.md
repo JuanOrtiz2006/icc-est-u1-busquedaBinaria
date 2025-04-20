@@ -1,30 +1,48 @@
-Práctica de Implementacion de Busqueda Binaria
-📌 Información General
-Título: Práctica de Búsqueda Binaria
-Asignatura: Estructura de Datos
-Carrera: Computación
-Estudiante: [Juan Pablo Ortiz]
-Fecha: [20/4/2025]
-Profesor: Ing. Pablo Torres
-🛠️ Descripción
-Este proyecto implementa diferentes algoritmos de ordenamiento y busqueda binaria en Java, incluyendo:
+# Práctica de Búsqueda Binaria
 
-Método Burbuja Mejorado
-Método Busqueda Binaria
-Se permite ingresar:
+## 📌 Información General
 
-Cantidad de personas.
-Nombre y Edad de la persona
-Visualización de pasos intermedios.
-Visualización del número de comparaciones y cambios.
-🚀 Ejecución
+- **Título:** Práctica de Búsqueda Binaria
+- **Asignatura:** Estructura de Datos
+- **Carrera:** Computación
+- **Estudiante:** [Juan Pablo Ortiz]
+- **Fecha:** [20/4/2025]
+- **Profesor:** Ing. Pablo Torres
+
+---
+
+## 🛠️ Descripción
+
+Este proyecto implementa algoritmos de ordenamiento y búsqueda Binaria  en Java, incluyendo:
+- Método Burbuja Mejorado
+- Método Burbuja Mejorado
+
+
+Se permite elegir:
+- Tamaño del vector de personas.
+- Ingresar el nombre y la edad.
+- Ingresar la edad a buscar.
+- Visualización de pasos intermedios.
+- Visualización del número de comparaciones y cambios.
+
+---
+
+## 🚀 Ejecución
+
 Para ejecutar el proyecto:
 
-Compila el código:
-javac App.java
-Ejecuta la aplicación:
-java App
-🧑‍💻 Ejemplo de Entrada
+1. Compila el código:
+    ```bash
+    javac App.java
+    ```
+2. Ejecuta la aplicación:
+    ```bash
+    java App
+    ```
+
+---
+
+## 🧑‍💻 Ejemplo de Entrada
 
 Ingrese la cantidad de personas:
 3
