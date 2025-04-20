@@ -15,7 +15,7 @@
 
 Este proyecto implementa algoritmos de ordenamiento y búsqueda Binaria  en Java, incluyendo:
 - Método Burbuja Mejorado
-- Método Burbuja Mejorado
+- Método Búsqueda Binaria
 
 
 Se permite elegir:
@@ -44,6 +44,7 @@ Para ejecutar el proyecto:
 
 ## 🧑‍💻 Ejemplo de Entrada
 
+```plaintext
 Ingrese la cantidad de personas:
 3
 Ingrese el nombre de la persona 1:
@@ -62,4 +63,6 @@ Arreglo ordenado por edad:
 12 20 30 
 Ingrese la edad a buscar:
 30
+```
 
+---
